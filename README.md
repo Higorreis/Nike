@@ -8,5 +8,10 @@
    <img align="center" height="30" width="40 " src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
  </div>
  <h2>🎥 vídeo:</h2>
-https://github.com/user-attachments/assets/ccdb1af0-e21a-4ac3-ac83-4a78e1589027
+ <div>
+ 
+</div>
+
+
+https://github.com/user-attachments/assets/346e7d0c-14ae-4635-821a-5bc21ceb4da7
 
